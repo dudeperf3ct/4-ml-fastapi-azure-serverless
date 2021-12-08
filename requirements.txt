@@ -1,0 +1,6 @@
+Fastapi
+uvicorn
+starlette
+sklearn
+numpy
+black
