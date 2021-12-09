@@ -5,7 +5,7 @@ import numpy as np
 from fastapi import APIRouter
 from starlette.responses import JSONResponse
 
-from .schemas import Wine
+from schemas import Wine
 
 
 ROOT_DIR = Path(__file__).parent
